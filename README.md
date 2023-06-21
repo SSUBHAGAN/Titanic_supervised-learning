@@ -1,5 +1,5 @@
-# Titanic_supervisedlearning
-Titanic Survival Prediction: Supervised Learning Project 
+
+# Titanic Survival Prediction: Supervised Learning Project 
 A supervised learning approach to predicting the survival of passengers aboard the Titanic. The project addresses a classification problem using various algorithms, including Decision Tree, Random Forest, Adaboost, Logistic Regression, SVC, Gradient Boosting Classifier, and Voting Classifier.
 
 The dataset, obtained from the famous Titanic Kaggle competition, was preprocessed and explored to handle missing values, engineer informative features, and address the class imbalance. The models were trained on a split dataset with stratified sampling to ensure representative class distributions.
